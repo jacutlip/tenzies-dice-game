@@ -45,21 +45,6 @@ Make sure you have the following installed on your system:
    ```
 2. Open your browser and navigate to the URL provided by the development server (usually `http://localhost:5173`).
 
-### Building for Production
-
-To build the project for production, run:
-```bash
-npm run build
-```
-The production-ready files will be available in the `dist` directory.
-
-### Previewing the Production Build
-
-To preview the production build locally, run:
-```bash
-npm run preview
-```
-
 ## Project Structure
 
 - `App.jsx`: The main component that manages the game logic and renders the UI.
